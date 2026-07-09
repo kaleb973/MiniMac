@@ -35,7 +35,7 @@ PCB
 
 This HackPad uses [QMK](https://qmk.fm/) firmware.
 
-I intend on changes the keys occasionally.
+I intend to change the keys occasionally.
 
 ## BOM
 
