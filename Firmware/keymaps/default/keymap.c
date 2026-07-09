@@ -16,7 +16,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
      * ├───────────┼───────────┼───────────┼───────────┤
      * │   PASTE   │ PREV_TAB  │ NEXT_TAB  │ TAB_REVIV │
      * ├───────────┼───────────┼───────────┼───────────┤
-     * │   UNDO    │ CLOSE_TAB │ PLAIN_PST │    PWR    │
+     * │   UNDO    │ PLAIN_PST │ CLOSE_TAB │    PWR    │
      * └───────────┴───────────┴───────────┴───────────┘
      */
     [0] = LAYOUT_ortho_4x4(
