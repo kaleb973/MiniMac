@@ -46,7 +46,7 @@ Bill of Materials:
 - 4x Heatset Inserts
 - 4x M3x16mm Screws
 - 16x Through-Hole 1N4148 Diodes
-- 1x 0.91 inch OLED Display
+- 1x 0.91-inch OLED Display
 - 1x unsoldered Seeed XIAO RP2040
 - 1x 3D Printed Case with two parts (Top and Bottom)
 
