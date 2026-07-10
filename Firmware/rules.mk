@@ -2,4 +2,4 @@ MCU = RP2040
 BOOTLOADER = rp2040
 
 OLED_ENABLE = yes
-LTO_ENABLE = yes # Optimizes code size to fit memory comfortably
+LTO_ENABLE = yes 
