@@ -47,14 +47,16 @@ I intend to change the keys occasionally.
 
 Bill of Materials:
 
-- 16x Cherry MX Switches
-- 16x DSA Keycaps
-- 4x Heatset Inserts
-- 4x M3x16mm Screws
-- 16x Through-Hole 1N4148 Diodes
-- 1x 0.91-inch OLED Display
-- 1x unsoldered Seeed XIAO RP2040
-- 1x 3D Printed Case with two parts (Top and Bottom)
+| Item | Description | Quantity |
+| :--- | :--- | :--- |
+| Cherry MX Switches | Keyswitches | 16 |
+| DSA Keycaps | Keycaps | 16 |
+| Heatset Inserts | Fasteners | 4 |
+| M3x16mm Screws | Screws | 4 |
+| 1N4148 Diodes | Through-Hole Diodes | 16 |
+| 0.91-inch OLED Display | 128x32 Display | 1 |
+| Seeed XIAO RP2040 | Microcontroller (unsoldered) | 1 |
+| 3D Printed Case | 2 Parts (Top & Bottom) | 1 |
 
 
 
