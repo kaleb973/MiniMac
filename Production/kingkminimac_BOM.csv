@@ -1,0 +1,10 @@
+Item,Qty,Unit Price (USD),Extended Price (USD),Vendor,Source URL,Notes / Proof
+Cherry MX2A Switches,16,0.35,5.60,Divinikey,https://divinikey.com/products/cherry-mx2a-black-linear-switches,"Listed price: '$0.35 per switch' (18-pack sells for $6.30 = $0.35/ea). Verified via web fetch 2026-08-04."
+DSA Blank PBT Keycaps,16,0.69,11.04,DIYKeyboards,https://www.diykeyboards.com/parts/product/p1u-dsa-blank-pbt-keycaps,"Listed price: '$0.69 each' for 1U DSA blank PBT keycaps, multiple colors in stock. Verified via web search 2026-08-04."
+M3x4mm Brass Heat-Set Inserts,4,0.119,0.48,Adafruit,https://www.adafruit.com/product/4255,"Sold in 50-pack for $5.95 (1-9 qty tier) = $0.119/insert. Min. purchase is one 50-pack ($5.95); note item was showing 'Out of Stock' at time of check, also available via Adafruit's DigiKey listing. Verified via web fetch 2026-08-04."
+M3x16mm Socket Head Cap Screws,4,0.31473,1.26,Fastener SuperStore,https://www.fastenersuperstore.com/products/225111/socket-head-cap-screws,"Part #225111, alloy steel/black oxide. Listed price: '$31.47 / Carton of 100 pcs ($0.31473 Each)' at 1-2 carton pricing tier. Min. purchase is one 100-pc carton ($31.47). Verified via web fetch 2026-08-04."
+1N4148 Through-Hole Diodes,16,0.10,1.60,DigiKey (onsemi),https://www.digikey.com/en/products/detail/onsemi/1N4148/458603,"onsemi 1N4148, DO-35 through-hole, standard 100V 200mA. Unit price listed: $0.10000 (qty 1 break). Verified via web search 2026-08-04."
+0.91-inch OLED Display (128x32, I2C, SSD1306),1,11.97,11.97,Waveshare (official),https://www.waveshare.com/0.91inch-oled-module.htm,"SKU 14657, listed price range '$11.97 - $12.99' on Waveshare's official OLED product listing page. Verified via web search 2026-08-04."
+Seeed XIAO RP2040 (unsoldered),1,3.99,3.99,Seeed Studio (official),https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html,"Official product page, 'Un-Soldered' pin header option (default), 1pc package. Listed price: $3.99 (10+ qty price: $3.50). Verified via web fetch 2026-08-04."
+,,,,,,
+TOTAL,,,35.94,,,Sum of extended prices above (before shipping/tax)
